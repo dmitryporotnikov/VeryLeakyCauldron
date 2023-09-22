@@ -36,5 +36,3 @@ This will automatically allocate 100MB of memory every second.
 ### Note:
 
 This tool is for professional use only. Ensure that you have adequate safeguards in place when using this tool, especially in production environments.
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Untitled.md&fileType=undefined&fileExtension=md
